@@ -48,21 +48,37 @@ RPC port
 coin.conf
 
 server=1
+
 daemon=1
+
 listen=1
+
 rpcuser=youruser
+
 rpcpassword=youpass
+
 rpcallowip=
+
 rpcport=21080
+
 port=11080
+
 addnode=au.suprnova.cc
+
 addnode=54.194.99.12
+
 addnode=198.204.238.114
+
 addnode=au.coin-miners.info
+
 addnode=37.59.18.108
+
 addnode=192.155.89.136
+
 addnode=88.213.221.77
+
 addnode=209.73.145.186
+
 
 POOLS
 
