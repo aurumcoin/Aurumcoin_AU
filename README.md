@@ -108,12 +108,20 @@ http://www.deepminerpool.com/
 
 Exchange
 
+https://c-cex.com/?p=au-btc
+
+https://lazycoins.com/trade#au-btc
+
+https://btc-market.org/?Pair=AU_BTC
+
 https://bit-street.com/trade/BTC/AU
 
 
 VOTE
 
-https://c-cex.com/?id=vote
+https://bleutrade.com/voting
+
+https://cryptoine.com/voting
 
 https://askcoin.net/votes
 
