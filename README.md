@@ -108,6 +108,8 @@ http://www.deepminerpool.com/
 
 Exchange
 
+https://www.allcoin.com/trade/AU_BTC
+
 https://c-cex.com/?p=au-btc
 
 https://lazycoins.com/trade#au-btc
